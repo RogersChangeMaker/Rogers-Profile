@@ -112,9 +112,9 @@ li a{
 .header h1, .header h3, .header p{
     margin-top: 1rem;
 }
-section.about-section h3{
+/* section.about-section h3{
     color: ;
-}
+} */
 section.about-section p{
     line-height: 1.9;
 }
