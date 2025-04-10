@@ -1,0 +1,24 @@
+{
+  "name": "developer-profile",
+  "version": "1.0.0",
+  "description": "This Repository contains a single page portfolio built for the purpose of showcasing the personal profile of Rogers",
+  "source": "myprofile.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogersChangeMaker/Rogers-Profile.git"
+  },
+  "author": "Rogers Wase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogersChangeMaker/Rogers-Profile/issues"
+  },
+  "homepage": "https://github.com/RogersChangeMaker/Rogers-Profile#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
