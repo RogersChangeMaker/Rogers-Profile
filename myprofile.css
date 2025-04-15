@@ -91,7 +91,7 @@ li a{
 .header{
     text-align: center;
     background-color: var(--bg-section);
-    padding: 7.2rem 0 12.4rem;
+    padding: 4.2rem 0 8.4rem;
     object-fit: cover;
     object-position: top;
 }
@@ -99,6 +99,7 @@ li a{
     width: 25rem;
     height: 25rem;
     border-radius: 50%;
+    object-fit: cover;
 
 }
 .header h1{
@@ -130,7 +131,7 @@ section.skills-section{
     row-gap: 3rem;
 }
 .skill{
-    margin-top: 3.5rem;
+    margin-top: 2.5rem;
     background-color: white;
     width: calc(90%/3);
     box-shadow: 0 1px 15px 2px #ddd;
@@ -230,11 +231,11 @@ gap: 2rem;
 
 .input-box input{
     height: 4rem;
-    border: .1rem solid black;
-    border: none;
+    border: .1rem solid rgb(152, 149, 149);
+    /* border: none; */
 }
 textarea#message{
-    height: 13rem;
+    height: 15rem;
 
 }
 .contact-btn{
@@ -285,6 +286,7 @@ footer .social-icons i{
 footer .social-icons i:hover{
     background-color: rgb(163, 146, 233);
 }
+
 
 /* RESPONSIVENESS
  */
